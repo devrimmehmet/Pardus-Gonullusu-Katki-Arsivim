@@ -1,3 +1,3 @@
-# Pardus Gönüllü Katkı Arşivim
+# Pardus Gönüllüsü Katkı Arşivim
 
 Pardus Gönüllüsü Olarak Yaptığım Katkılar

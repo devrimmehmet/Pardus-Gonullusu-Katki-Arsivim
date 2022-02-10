@@ -1,0 +1,1 @@
+# Steam'in En İyi 1000 oyununun %75'i artık Linux'ta çalışıyors

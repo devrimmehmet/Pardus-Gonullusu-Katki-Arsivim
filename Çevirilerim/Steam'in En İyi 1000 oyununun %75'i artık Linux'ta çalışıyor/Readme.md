@@ -1,3 +1,8 @@
+# Bu çalışma başkası tarafından yapıldığı gerekçesiyle iptal olmuştur. Yazının çevirisine ulaşmak için [tıklayın](https://gonullu.pardus.org.tr/steamdeki-en-populer-1000-oyun-artik-linuxta-calisiyor/). 
+
+# Yazının Çevirisini Yapan: Onur Öztürk
+
+
 # Steam'in En İyi 1000 oyununun %75'i artık Linux'ta çalışıyor
 
 ## Yazar : MARTIN BRINKMANN

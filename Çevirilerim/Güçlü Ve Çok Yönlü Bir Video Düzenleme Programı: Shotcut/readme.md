@@ -1,12 +1,15 @@
 # Güçlü Ve Çok Yönlü Bir Video Düzenleme Programı: Shotcut
 
 Shotcut, çok çeşitli video formatlarını destekleyen ve birçok zarif özelliğe sahip ücretsiz, açık kaynaklı ve platformlar arası bir video düzenleyicidir.
+![Shotcut Arayüz Görseli](https://raw.githubusercontent.com/devrimmehmet/Pardus-Gonullusu-Katki-Arsivim/master/G%C3%B6rseller/G%C3%BC%C3%A7l%C3%BC%20Ve%20%C3%87ok%20Y%C3%B6nl%C3%BC%20Bir%20Video%20D%C3%BCzenleme%20Program%C4%B1%3A%20Shotcut/gorsel2.png)
 
-[Gorsel1]()
 
 Ünlü açık kaynaklı multimedya çerçevesi FFmpeg ve Qt tarafından desteklenen Shotcut video düzenleyici, 4K çözünürlüğe ve HDR'ye kadar çok çeşitli video formatlarını, 5.1 surround'a kadar birçok ses formatını ve birkaç popüler görüntüyü düzenlemenizi sağlar. WebP, SVG, TIFF, BMP, GIF 'de bunlara dahil daha bir çok dosya uzantısınıda destekler.
 
 Shotcut'ın başlıca özelliklerinden bazıları, desteklenen birçok video formatının kare hızları farklı da olsa, bir proje içindeki çözünürlükleri ve kare hızlarını karıştırmayı ve eşleştirmeyi kolaylaştırmak için çok formatlı zaman çizelgesini, yerleşik ses ve video filtrelerini, ses karıştırmayı yapabilir.
+
+![Shotcut Arayüz Görseli](https://raw.githubusercontent.com/devrimmehmet/Pardus-Gonullusu-Katki-Arsivim/master/G%C3%B6rseller/G%C3%BC%C3%A7l%C3%BC%20Ve%20%C3%87ok%20Y%C3%B6nl%C3%BC%20Bir%20Video%20D%C3%BCzenleme%20Program%C4%B1%3A%20Shotcut/gorsel1.png)
+
 
 Shotcut ile video dosyalarınıza istediğiniz her şeyi yapabileceksiniz. Video parçalarını kırpabilir, kesebilir, kopyalayabilir, yapıştırabilir, bölebilir, ekleyebilir, kaldırabilir, üzerine yazabilir ve değiştirebilirsiniz. Sesi ayırabilir, çalma listelerini gruplayabilir, oluşturulma veya kayıt tarihine göre sıralayabilir ve çalma listesinden birden çok öğeyi seçebilirsiniz. Bunların hepsini Zaman çizelgesinde yapmak mümkün.
 
